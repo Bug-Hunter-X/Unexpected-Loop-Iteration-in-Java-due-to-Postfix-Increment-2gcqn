@@ -1,0 +1,1 @@
+This repository contains a simple Java program that demonstrates an uncommon coding error involving the postfix increment operator in a `while` loop. The loop unexpectedly iterates one more time than intended, highlighting a subtle detail often overlooked by programmers. The solution shows the correct implementation using the pre-increment operator.
